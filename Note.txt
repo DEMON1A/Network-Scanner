@@ -1,0 +1,10 @@
+>> This Script For linux & Window
+>> Just Nead to Install Python + Scapy library >/> pip install scapy
+
+
+>> Enter your network ip address   #>> 192.168.43.1/100
+>> This tool will give you all connect clients on network and their ip & mac addresses
+>> You Should be connect to network when you start scan
+
+>> i Build this tool after Zaid sabih python for security course so i used his script idea
+with scapy lib, you can edit script and make all you want on it
