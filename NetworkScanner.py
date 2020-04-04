@@ -10,7 +10,7 @@ import scapy.all as scapy
 import time
 
 def Banner():
-	First = "\t?? Network Scanner ??"
+	First = "\t?? Network Scanner ??\n"
 	Second = "?? Know who use your network ??"
 	Ban = First + Second
 	print(Ban)
