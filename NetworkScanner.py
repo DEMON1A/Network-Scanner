@@ -1,7 +1,7 @@
 #/usr/bin/env python3
 '''
 This Tool Realted To Zaid Sabih Python Course But In Python3
-Maybe There Is Some Problems I Will Try To Solve  It
+Maybe There Is Some Problems I Will Try To Solve It Later
 Feel Free To Edit The Code It Is Yours!
 I Will Explain The Code Later And Update It Cuz Have Some Things To Do First!
 Have Fun!
@@ -9,7 +9,7 @@ Have Fun!
 import scapy.all as scapy
 import time
 
-def Banner()
+def Banner():
 	First = "\t?? Network Scanner ??"
 	Second = "?? Know who use your network ??"
 	Ban = First + Second
