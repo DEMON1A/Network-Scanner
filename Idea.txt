@@ -1,3 +1,0 @@
->> This Tool use ARP protocol for askingg users who has this ip so the user who has this ip 
-answer with his MAC Addres,this tool using this protocol to ask all clients on netowork who
-has this ip and get thier MAC Address  
