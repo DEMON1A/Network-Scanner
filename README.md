@@ -3,6 +3,6 @@
 # Run Script
  - git clone https://github.com/DEMON1A/Network-Scanner
  - cd Network-Scanner
- - python3 Network_Scanner.py
-# Note
- - Open Text Files When you clone this tool
+ - python3 NetworkScanner.py
+# Usage
+ - Just Run The TOOL And Enter Your IP To Scan!
