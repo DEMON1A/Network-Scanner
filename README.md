@@ -1,5 +1,5 @@
 # Network-Scanner
-- Python Script Scan your network to discover all people who connect to your network 
+- A Tool Written In Python That Discover All Network Clinets By Sending ARP Requests
 # Run Script
  - git clone https://github.com/DEMON1A/Network-Scanner
  - cd Network-Scanner
